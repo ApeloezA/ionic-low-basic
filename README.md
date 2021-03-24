@@ -1,8 +1,11 @@
 # ionic-low-basic
 
 untuk tampilan html
-![image](https://user-images.githubusercontent.com/34316240/112273991-8c3ef100-8cb0-11eb-85f9-9efdaa1c8975.png)
+<br>
+![image](https://user-images.githubusercontent.com/34316240/112274227-d45e1380-8cb0-11eb-8b94-fd74853f53df.png)
+![image](https://user-images.githubusercontent.com/34316240/112274277-df18a880-8cb0-11eb-8cce-81802165cc2f.png)
+<br>
 untuk fungsi tidak berkerja
-![image](https://user-images.githubusercontent.com/34316240/112274016-952fc280-8cb0-11eb-833c-142ff3be6a7e.png)
+
 
 https://drive.google.com/drive/folders/1l27YPcIEUxzxHErzFDnsQDdn0ZEeUETX?usp=sharing
